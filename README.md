@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kU2Xk.png](https://i.328888.xyz/2023/01/06/kU2Xk.png)
-
+[![kU2Xk.png](https://i.328888.xyz/2023/01/06/kU2Xk.png)](https://imgloc.com/i/kU2Xk)
 <!--START_SECTION:activity-->
 
 
