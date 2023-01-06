@@ -1,5 +1,7 @@
-### Hi there 👋
+### :hatched_chick: Hey! Nice to see u 👋
 
+Welcome to my page!
+I'm Lzc,Back-End Developer from :cn: China,currently living in ChengDu.
 <!--
 **amonstercat/amonstercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amonstercat)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amonstercat)](https://github.com/anuraghazra/github-readme-stats)
