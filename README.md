@@ -1,6 +1,6 @@
 # :hatched_chick: Hey, Welcome to my page! 👋👋👋
 
-### **I'm Java Developer from China,currently living in ChengDu.🐕🐕🐕**
+### **I'm Java Developer from China,currently living in ChengDu. 🐱🐱🐱**
 <!--
 **amonstercat/amonstercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
